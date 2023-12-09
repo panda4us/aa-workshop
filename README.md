@@ -70,6 +70,7 @@ $ scarb test
 ### Hints
 
 * A `public_key` is defined with a single felt
+* Please follow the https://book.cairo-lang.org/ch99-02-02-contract-dispatcher-library-dispatcher-and-system-calls.html to find more about dispatchers
 
 ## Step 2
 
